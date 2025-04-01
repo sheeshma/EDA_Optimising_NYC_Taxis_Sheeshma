@@ -1,5 +1,5 @@
 # EDA_Optimising_NYC_Taxis_Sheeshma
-Project contains 2 files
+Project EDA_Optimising_NYC_Taxis_Sheeshma.zip contains 2 files
 
 **Python file:** EDA_Assg_NYC_Taxi_Sheeshma_1Apr.ipynb
 **Report PDF:** Report_NYC_Taxi_Operations_Starter
